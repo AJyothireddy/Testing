@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Jyothi Akavaram 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/akavaram-jyothi-19315b148/" target="_blank" rel="noreferrer">Nasi</a> is a DevOps Engineer from Hyderabad, working on Cloud and DevOps for 2+ years now.
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/akavaram-jyothi-19315b148/" target="_blank" rel="noreferrer">Ajyothi</a> is a DevOps Engineer from Hyderabad, working on Cloud and DevOps for 2+ years now.
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
